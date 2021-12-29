@@ -1,0 +1,2 @@
+# damedesho-h
+Danmaku (jap. 弾幕, dt. "Sperrfeuer, Kugelhagel", en. "Bullet Hell") ist eine weitere Unterteilung des Shoot'em Up-Genres bei Computerspielen. Im Gegensatz zu manchen verwandten Shoot'em Ups besitzen die steuerbaren Charaktere in Danmakus eine vergleichsweise kleine Hitbox, die bei weitem nicht so groß ist wie der Sprite selbst. Selbes trifft in der Regel auch auf die gegnerischen Geschosse zu.
